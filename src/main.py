@@ -11,7 +11,7 @@ def main():
     basepath = "/"
     if len(sys.argv) >= 2:
         basepath = sys.argv[1]
-    content_path = os.path.join("site-generator")
+    content_path = os.path.join("content")
     public_path = os.path.join("docs")
     static_path = os.path.join("static")
 

@@ -1,8 +1,8 @@
 # Why Tom Bombadil Was a Mistake
 
-[< Back Home](/)
+[< Back Home](/site-generator/)
 
-![Tom Bombadil image](/images/tom.png)
+![Tom Bombadil image](/site-generator/images/tom.png)
 
 > "Old Tom Bombadil is a merry fellow; bright blue his jacket is, and his boots are yellow. Alas, his merry song may not belong in this plot's prolonged confluence."
 
