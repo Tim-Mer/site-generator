@@ -1,5 +1,7 @@
 # Tolkien Fan Club
 
+[Home](/)
+
 ![JRR Tolkien sitting](/site-generator/images/tolkien.png)
 
 Here's the deal, **I like Tolkien**.
