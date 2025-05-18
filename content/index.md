@@ -2,6 +2,8 @@
 
 [Home](/)
 
+[GitHub Code](https://github.com/Tim-Mer/site-generator/)
+
 ![JRR Tolkien sitting](/site-generator/images/tolkien.png)
 
 Here's the deal, **I like Tolkien**.
